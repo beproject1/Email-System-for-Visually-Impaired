@@ -1,6 +1,2 @@
 name,email_id
-ayush,aayushagarwal764@gmail.com
-simran,simrann2002@gmail.com
-groupproject, groupprojectblind@gmail.com
-shaunak, shaun.salunke@gmail.com
-yukta, yuktak17@gmail.com
+name_of_person,email_id_of_the_person@gmail.com
